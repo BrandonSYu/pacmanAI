@@ -12,3 +12,5 @@ Enter `python pacman.py -h`for a list of options like
 `python pacman.py --layout testMaze --pacman GoWestAgent` 
 
 Further directions can be found in Project pdf.
+
+I also included a documentation of the results of each search with various options set.
